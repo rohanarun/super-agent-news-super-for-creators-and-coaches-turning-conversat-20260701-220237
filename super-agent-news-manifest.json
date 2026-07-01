@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[knolo.io](https://www.knolo.io/blog/how-to-create-ai-agent-for-content-creators)",
+    "[theagenttimes.com](https://theagenttimes.com/articles/content-creator-ships-agent-that-cuts-weekly-research-from-f-cd76e11b)",
+    "[ahrefs.com](https://ahrefs.com/blog/agentic-marketing/)",
+    "[soku.ai](https://soku.ai/blog/marketing-ai-agents)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)",
+    "[alm.com](https://www.alm.com/)",
+    "[securityaffairs.com](https://securityaffairs.com/)"
+  ],
+  "design_plan": "rng_seed=42; architecture=reuse_comparison_layout; AIDA=checked; hero_max_width\u22481120px ensures 2\u20133 lines; bento_density=grid-auto-flow:dense verified; label_sweep=competitors mentioned once+; CTA_contrast=black/white pills on paper background",
+  "generated_at": "2026-07-01T22:02:44.007871+00:00",
+  "headline": "Super for creators and coaches turning conversations into content and operations",
+  "site_brief": {
+    "audience": "creators and coaches turning conversations into content and operations",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "creators and coaches turning conversations into content and operations AI assistant",
+      "creators and coaches turning conversations into content and operations personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-creators-and-coaches-turning-conversations-into",
+    "title": "Super for creators and coaches turning conversations into content and operations"
+  },
+  "summary": "A cinematic, conversion-focused niche landing page for creators and coaches who want to turn calls, DMs, and voice notes into repeatable content and backend operations. The page positions Super as the sharper alternative to generic assistants by emphasizing real computer use, reuse of a computer-use cache, and durable agent workflows, grounded in 2026 evidence about AI agents, computer-use assistants, and workflow automation."
+}
